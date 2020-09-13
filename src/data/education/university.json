@@ -1,0 +1,17 @@
+{
+    "slug":"education",
+    "title":"Formación educativa",
+    "description": "Formación universitaria, grado de estudios e instituciones a las que asistí",
+    "items": [
+        {
+            "name":"Instituto Tecnológico de Ciudad Madero",
+            "degree": "Ing. Sistemas Computacionales",
+            "score": "92"
+        },
+        {
+            "name":"Centro de Estudios Tecnológico, Industriales y de Servicios",
+            "degree": "Tec. Soporte y Mantenimiento de Computo",
+            "score": "93"
+        }
+    ]
+}

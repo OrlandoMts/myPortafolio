@@ -1,0 +1,135 @@
+{
+    "data": {
+        "email": "dani_monts19@hotmail.com",
+        "username": "orlando19",
+        "certificates": [
+            {
+                "score": 9,
+                "code": "e8165fe7-8a4c-4cac-b4ec-694faa10aff1",
+                "title": "Curso Profesional de Base de Datos"
+            },
+            {
+                "score": 10,
+                "code": "956a045d-b2aa-4c1f-9a3f-04a616991746",
+                "title": "Curso Profesional de Git"
+            },
+            {
+                "score": 10,
+                "code": "e8165fe7-8a4c-4cac-b4ec-694faa10aff1",
+                "title": "Curso Profesional de React"
+            }
+        ],
+        "articles": [],
+        "courses": [
+            {
+                "title": "Curso gratuito de Django",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/django"
+            },
+            {
+                "title": "Curso Profesional de JavaScript",
+                "progress": "27.0",
+                "url": "http://codigofacilito.com/courses/javascript-profesional"
+            },
+            {
+                "title": "Curso Profesional de Android",
+                "progress": "9.0",
+                "url": "http://codigofacilito.com/courses/android-profesional"
+            },
+            {
+                "title": "Curso Profesional de Base de Datos",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/base-datos-profesional"
+            },
+            {
+                "title": "Curso Profesional de Git",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/git-profesional"
+            },
+            {
+                "title": "Promesas en javaScript",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/javascript-promises"
+            },
+            {
+                "title": "Curso Profesional de Backend",
+                "progress": "73.0",
+                "url": "http://codigofacilito.com/courses/backend-profesional"
+            },
+            {
+                "title": "Curso de noSQL con MongoDB",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/nosql-moongodb"
+            },
+            {
+                "title": "Curso para desarrollar servicios web REST con Nodejs",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/nodejs-servicios-web"
+            },
+            {
+                "title": "Curso Profesional Desarrollo Web",
+                "progress": "28.0",
+                "url": "http://codigofacilito.com/courses/frontend-profesional"
+            },
+            {
+                "title": "Curso a fondo de CSS",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/css"
+            },
+            {
+                "title": "Curso para desarrollo de apps con React Native",
+                "progress": "1.0",
+                "url": "http://codigofacilito.com/courses/react-native"
+            },
+            {
+                "title": "Curso Profesional de React",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/react-profesional"
+            },
+            {
+                "title": "Curso para desarrollar Aplicaciones Web Progresivas",
+                "progress": "7.0",
+                "url": "http://codigofacilito.com/courses/aplicaciones-web-progresivas"
+            },
+            {
+                "title": "Curso Profesional de Laravel",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/laravel-profesional"
+            },
+            {
+                "title": "Curso de diseño para programadores",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/diseno-basico"
+            },
+            {
+                "title": "Curso de Fundamentos de React",
+                "progress": "58.0",
+                "url": "http://codigofacilito.com/courses/react-intro-gratis"
+            },
+            {
+                "title": "Crea un sitio personal con Gatsby",
+                "progress": "53.0",
+                "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+            }
+        ],
+        "finished_courses": [
+            {
+                "title": "Curso Profesional de Base de Datos",
+                "url": "http://codigofacilito.com/courses/base-datos-profesional"
+            },
+            {
+                "title": "Curso Profesional de Git",
+                "url": "http://codigofacilito.com/courses/git-profesional"
+            },
+            {
+                "title": "Curso Profesional de React",
+                "url": "http://codigofacilito.com/courses/react-profesional"
+            },
+            {
+                "title": "Curso de diseño para programadores",
+                "url": "http://codigofacilito.com/courses/diseno-basico"
+            }
+        ]
+    },
+    "errors": []
+}
