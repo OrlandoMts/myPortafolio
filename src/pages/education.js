@@ -4,7 +4,7 @@ import { graphql, Link } from "gatsby";
 export default (props)=>{
     const pageData = props.data.educationJson;
     return(
-        <div className="backG h-screen">
+        <div className="backG max-h-full h-screen">
             <header className = "py-12 border-green-500 border-solid border-t-8">
                 <div className = "p-4 md:p-6 lg:p-0 max-w-4xl mx-auto">
                     <h2 className = "capitalize text-6xl font-bold">{pageData.title}</h2>
@@ -31,10 +31,9 @@ export default (props)=>{
                     ))
                 }
             <div className="mt-8 pt-3 pb-3 md:pt-4 md:pb-4 lg:p-0">
-                <Link to="/" className="text-green-700 underline text-xl mt-8">Regresar al inicio</Link>
+                <Link to="/" className="text-green-700 underline text-2xl lg:text-xl mt-8">Regresar al inicio</Link>
             </div>
             </ul>
-            
         </div>
     )
 }
