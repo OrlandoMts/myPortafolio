@@ -1,5 +1,4 @@
 import React from "react";
-import icon from '../fontawesome-free-5.14.0-web/css/all.min.css';
 import { Link } from "gatsby";
 
 
