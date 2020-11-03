@@ -21,7 +21,7 @@ export default ()=>{
     return(
         <section>
             <div className="mt-24">
-              <div className="max-w-4xl mx-auto">
+              <div className="max-w-sm md:max-wxl lg:max-w-4xl mx-auto">
                   <h2 className="text-3xl font-bold text-center">Mis certificados en CódigoFacilito</h2>
                   <div className="flex mt-8">
                       {
