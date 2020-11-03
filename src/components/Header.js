@@ -2,7 +2,7 @@ import React from "react";
 import ilustration from '../img/undraw_Freelancer_re_irh4.svg';
 
 export default () => (
-    <header style={{backgroundColor: "#1FAB89"}}>
+    <header style={{backgroundColor: "#1FAB89"}} >
         <div className="container mx-auto p-12 max-w-4xl">
             <div className="flex justify-center items-center">
                 <div className="flex-1">    
