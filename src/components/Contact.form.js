@@ -8,7 +8,7 @@ export default ()=>(
                 <input type="hidden" name="form-name" aria-hidden="true" value="contact" />
                 
                 <label htmlFor="contact-content" className="text-3xl font-bold text-center text-gray-700">Dale vida a tu idea</label>
-                <div className="grid grid-cols-2 mt-3">
+                <div className="grid grid-cols-1 md:grid-cols-2 px-4 md:px-0 mt-3">
                     <img src={ilustration} alt="Enviando un mensaje" style={{height:"200px", width:"300px"}}></img>
                     <div className="flex shadow-lg rounded bg-white border p-3 w-full">
                         <textarea 
